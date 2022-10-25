@@ -1,0 +1,16 @@
+{
+  "posts": [
+  {
+    "idUsuario":1,
+    "firstName":"Pierre",
+    "lastName":"Medina",
+    "username":"pmedina",
+    "gender":"Masculino",
+    "password":"1234",
+    "confirmPassword":"1234",
+    "fechaRegistro":"2022-04-04 03:59:05"
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
